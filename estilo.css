@@ -1,0 +1,15 @@
+body{
+	background-color: #E8E8E8;
+	font-family: sans-serif;
+}
+h1{
+	font-family: serif;
+	border: 5px solid black;
+	padding: 20px;
+	margin: 20px;
+	background-color: #00FA9A;
+	text-align: center;
+}
+ul{
+	margin-left: 5%;
+}
