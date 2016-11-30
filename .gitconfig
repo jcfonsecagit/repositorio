@@ -1,0 +1,2 @@
+[alias]
+st = git stash
