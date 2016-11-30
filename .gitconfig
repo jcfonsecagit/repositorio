@@ -1,0 +1,2 @@
+[alias]
+historico = historico = !git log --pretty='Commit %h de %an em %ad: %s' --graph
