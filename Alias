@@ -1,0 +1,6 @@
+Criar um atalho chamado publica -  branch chamada dev.
+configuração global (~/.gitconfig) e insira a seguinte linha no bloco alias:
+
+[alias]
+        publica = !git checkout master && git pull && git checkout dev && git rebase master && git checkout master && git merge dev && git push
+DISCUTIR NO FORUM
